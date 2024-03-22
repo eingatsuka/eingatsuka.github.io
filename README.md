@@ -1,2 +1,4 @@
-# eingatsuka.github.io #ffffff
-This is just a site code really
+# [eingatsuka.github.io](eingatsuka.github.io)
+This is just a site code really... 
+<sup>also forking is lame... but if u want 2 fork i dont mind really</sup>
+the sites gonna get update daily or sum shi
