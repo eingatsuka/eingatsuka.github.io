@@ -43,8 +43,19 @@ body {
 }
 </style>
 
-<BGSOUND src="bg.wav" loop=infinite>
+<body>
 
+<body onload="play()">
+<audio loop= 'true'>
+<source src="bg.wav" type="audio/wav">
+</audio>
+<script>
+let x = document.querySelector('audio');
+function play(){
+x.play();
+}
+</script>
+</body>
 
 <img src="internet explorer.png" style="position: fixed;top:670px;right:10px;" width="50" height="50">
  <center>
